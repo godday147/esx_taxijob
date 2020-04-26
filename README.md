@@ -17,7 +17,7 @@ Using my file, you can make the company owner go to the car dealer to buy the co
 ## Download & Installation
 
 ### Manually
-- Download https://github.com/ESX-Org/esx_taxijob/archive/master.zip
+- Download https://github.com/godday147/esx_taxijob/releases/download/1.0/esx_taxijob.zip
 - Put it in the `[esx]` directory
 
 ## Installation
