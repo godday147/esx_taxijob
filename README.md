@@ -11,6 +11,8 @@ Using my file, you can make the company owner go to the car dealer to buy the co
 * Player management (billing and boss actions)
   * [esx_society](https://github.com/ESX-Org/esx_society)
   * [esx_billing](https://github.com/ESX-Org/esx_billing)
+
+* Vehicle dealer
   * [esx_vehicleshop](https://github.com/godday147/esx_vehicleshop)
 ## Download & Installation
 
